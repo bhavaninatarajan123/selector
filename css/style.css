@@ -1,0 +1,20 @@
+   *{
+     margin:0;
+     padding:0;
+     box-size:border-base;
+    }
+  
+  
+  #para{color:purple;}
+  
+  u,s{color:red}
+  
+  div ins{font-size:30px;
+  background-color:aqua;}
+  
+  div>i {background-color:blue;}
+  
+  div+em{font-size:50px;}
+  div~mark{font-family:onyx;
+  font-size:30px;}
+
